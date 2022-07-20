@@ -1,0 +1,31 @@
+body {
+    background-image: url('bg.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#content {
+    border-color: #ffffff;
+}
+p {
+    color: #ffffff;
+}
+h1 {
+    color: #ffffff;
+}
+h2 {
+    color: #ffffff;
+}
+a.border {
+    border-color: #ffffff;
+}
+a.border h3 {
+    color: #ffffff;
+}
+a.border:hover {
+    background-color: #ffffff;
+}
+a.border:hover h3 {
+    color: #000000;
+}
