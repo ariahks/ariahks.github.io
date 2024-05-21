@@ -1,0 +1,14 @@
+{
+  "name": "AriahKS's Packages",
+  "packages": [
+    {
+      "name": "Majora's Mask Randomizer Tracker",
+      "author": "AriahKS",
+      "game_name": "Majora's Mask Randomizer",
+      "version": "1.0.0",
+      "required_app_version": "2.2.0.6",
+      "uid": "mmrando_ariahks",
+      "link": "https://ariahks.github.io/emotracker-packages/mmrando_ariahks.zip"
+    }
+  ]
+}
