@@ -17,7 +17,15 @@
       "version": "1.0.0",
       "required_app_version": "2.3.0.0",
       "uid": "ootmmrando_ariahks",
-      "link": "https://ariahks.github.io/emotracker-packages/ootmmrando_ariahks.zip"
+      "link": "https://ariahks.github.io/emotracker-packages/ootmmrando_ariahks.zip",
+	  "variants": [
+		{
+			"name": "Shared Items"
+		},
+		{
+			"name": "Shared Items w/ Souls"
+		}
+	  ]
     }
   ]
 }
